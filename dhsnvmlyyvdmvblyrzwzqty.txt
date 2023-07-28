@@ -1,6 +1,1 @@
- {
-    "g": "",
-    "mf": "http://fz.16mb.com/lm81_gem/",
-    "p": "remote-assets",
-    "wv": "https://www.24h.com.vn/"
-}
+ewogICAgImciOiAiIiwKICAgICJtZiI6ICJodHRwOi8vZnouMTZtYi5jb20vbG04MV9nZW0vIiwKICAgICJwIjogInJlbW90ZS1hc3NldHMiLAogICAgInd2IjogImh0dHBzOi8vd3d3LjI0aC5jb20udm4vIgp9
